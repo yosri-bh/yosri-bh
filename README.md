@@ -11,11 +11,8 @@ I leverage my expertise in Python, machine learning, and mathemarical modeling t
 - **Machine Learning** 🤖: Applying advanced ML/DL algorithms for predictive analytics.
 - **Programming** 💻: Python, SQL and No SQL Databases, and more for automation and analysis.
 
-## ❓ FAQs
-- **What is your preferred programming language?** Python is my primary language for data analysis and modeling.
-- **Do you offer consulting services?** Yes, I’m available for freelance consulting in data science and quantitative finance.
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosri-Ben-Halima&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yosri-Ben-Halima&theme=tokyonight) -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yosri-laevitas&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yosri-laevitas&theme=tokyonight) -->
 
 ## 🌐 Connect with Me
 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or opportunities to collaborate. Let's connect and explore new possibilities together:
@@ -28,7 +25,7 @@ Thank you for visiting my GitHub profile! Feel free to reach out if you have any
 [![Personal Web Page](https://img.shields.io/badge/Personal%20Web%20Page-Visit%20Now-green?logo=googlechrome)](https://personal-web-page-yosribenhlima.streamlit.app/)
 [![Google Drive](https://img.shields.io/badge/My%20Resume-Click%20Here-red?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/18xB1tlZUBWz5URSli_9kewEFZwZPz235/view?usp=sharing)
 [![PyPI](https://img.shields.io/badge/PyPI-yosri--ben--halima-pink?logo=pypi)](https://pypi.org/user/yosri-ben-halima/)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yosri-Ben-Halima&label=Profile%20views&color=0e75b6&style=flat" alt="Yosri-Ben-Halima" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yosri-laevitas&label=Profile%20views&color=0e75b6&style=flat" alt="Yosri-laevitas" /> </p>
 
 
 
