@@ -17,7 +17,7 @@ I leverage my expertise in Python, machine learning, and mathemarical modeling t
 ## 🌐 Connect with Me
 Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or opportunities to collaborate. Let's connect and explore new possibilities together:
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yosri--laevitas-black?logo=github)](https://github.com/Yosri-laevitas)
+[![GitHub](https://img.shields.io/badge/GitHub-Yosri--laevitas-black?logo=github)](https://github.com/yosri-bh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yosri%20Ben%20Halima-blue?logo=linkedin)](https://www.linkedin.com/in/yosri-ben-halima-3553a9221/)
 [![Facebook](https://img.shields.io/badge/Facebook-@Yosry%20Ben%20Hlima-navy?logo=facebook)](https://www.facebook.com/NottherealYxsry)
 [![Instagram](https://img.shields.io/badge/Instagram-@yosrybh-orange?logo=instagram)](https://www.instagram.com/yosrybh/)
